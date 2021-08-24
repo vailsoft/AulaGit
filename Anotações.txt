@@ -1,0 +1,6 @@
+git init - Inicia o repositório
+git add . - Coloca todos os arquivos no stage (Lista de espera)
+git status - Mostra o status do projeto
+git branch -m "main" - Define o Branch
+git commit -m "Mensagem" - Commita o código
+
